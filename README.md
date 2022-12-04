@@ -5,7 +5,9 @@ My key skills in data science projects include EDA, feature Engineering, data cl
 Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
 
 🔭 I’m currently working in Deep Learning
+
 🌱 I’m currently exploring Computer Vision
+
 
 <!---
 ashutoshrajput96/ashutoshrajput96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
